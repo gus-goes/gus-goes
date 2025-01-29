@@ -4,5 +4,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=GUS-GOES&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gus-goes&theme=dark&border_radius=3&locale=pt_BR&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&card_width=350" alt="GitHub Streak" /></a>
 ---
-[![](https://visitcount.itsvg.in/api?id=GUS-GOES&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gus-goes&theme=dark&border_radius=4.6&locale=pt_BR&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 
