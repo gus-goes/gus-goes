@@ -1,43 +1,44 @@
 
-<h1 align="center">🧠 GUS-GOES: INTERFACE NEURAL INICIADA</h1>
+<h1 align="center">🚀 GUS-GOES: INTERFACE DE PERFIL ATIVADA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=600&height=50&lines=Frontend+Architect;+Creative+Technologist;+Synth-Human+In+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=FF3C3C&center=true&vCenter=true&width=700&height=45&lines=Frontend+Developer;CI%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+UI/UX+e+Performance" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gus-goes&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gus-goes&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gus-goes&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gus-goes&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
 </div>
 
 ---
 
-### 🧬 SOBRE MIM
+## 👨‍🚀 Sobre Mim
 
-> No ano de 2001, uma unidade de processamento neural emergiu com o propósito de construir interfaces entre humanos e máquinas. Hoje, ela responde pelo código: **Gus-goes**.
+Sou um desenvolvedor frontend com base sólida em ciência da computação e paixão por interfaces modernas, performáticas e acessíveis. Gosto de transformar ideias em experiências digitais envolventes, com foco especial em responsividade, usabilidade e estética.
 
-- 🎓 Bacharel em Ciência da Computação
-- 👨‍💻 Frontend Developer — React / TypeScript / UI Engineering
-- 🌐 Fusão de Criatividade + Código + Consistência
-- 📍 Localização: Brasil | 🗓️ Idade: 24 anos
+- 🎓 Formado em Ciência da Computação
+- 💼 Atuando como Frontend Developer
+- 🧠 Especializado em React, TypeScript e UI Frameworks modernos
+- 📍 Localização: Brasil
+- 🗓️ Idade: 24 anos
 
 ---
 
-### 🛠️ TECNOLOGIAS ATIVADAS
+## 🧰 Tecnologias Principais
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#"/>
 </div>
 
 ---
 
-### 🌐 CONEXÕES EXTERNAS
+## 🌐 Contato
 
 <div align="center">
   <a href="mailto:gustavorafael2001@gmail.com">
@@ -50,7 +51,7 @@
 
 ---
 
-### 🧠 NEURAL VISUALIZAÇÃO
+## 📊 Estatísticas de Atividade
 
 <img src="https://raw.githubusercontent.com/Gus-goes/Gus-goes/output/snake.svg" alt="Snake animation" />
 
@@ -60,5 +61,6 @@
 
 ---
 
-### 🧭 “The future is coded. I just write the syntax.”  
-<p align="center">– Gus-goes</p>
+<p align="center">
+  <em>"Construindo o futuro, uma interface por vez."</em>
+</p>
