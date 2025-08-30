@@ -1,58 +1,35 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1C1C&height=200&section=header&text=Gustavo+Goes&fontSize=50&fontColor=ffffff" />
-</div>
+# 👋 Hey Everyone! I'm [Seu Nome].
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=FF1C1C&center=true&vCenter=true&width=600&height=50&lines=Frontend+Engineer;+UI+Developer;+Creating+The+Future" />
+I'm a passionate developer with a relentless drive to learn, create, and innovate.  
+Here, you'll find a collection of my projects, experiments, and open-source contributions.  
+
+---
+
+## 🚀 Programming Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,python,java,git,github,figma,ai,ps,pr,blender,vscode,wordpress" />
 </p>
 
 ---
 
-## 👤 Sobre Mim
+## 📊 GitHub Stats
 
-- 🎓 **Bacharel em Ciência da Computação**
-- 💻 **UI Developer** com paixão por experiências imersivas e UI/UX futurista
-- 🌱 Curioso sobre **tecnologias emergentes** e design interativo
-- 🎂 **24 anos** | **2001**
-
----
-
-## 🛠️ Stack Tecnológica
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gus-goes&show_icons=true&theme=radical&title_color=FF1C1C&icon_color=FF1C1C&text_color=ffffff&bg_color=0d1117&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-goes&layout=compact&theme=radical&title_color=FF1C1C&text_color=ffffff&bg_color=0d1117&hide_border=false" height="160"/>
-</div>
+[![Rhys's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🌐 Contato
+## ✨ Visitors
 
-<div align="center">
-  <a href="mailto:gustavorafael2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF1C1C?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gus-goes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF1C1C?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Gus-goes/count.svg?" />
-</div>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="SEUUSUARIO" /> 
+</p>
