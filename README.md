@@ -2,6 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=gus-goes&label=Profile%20views&color=0e75b6&style=flat" alt="gus-goes" /> 
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA8F7&width=435&lines=Ol%C3%A1+pessoal%2C;Me+chamo+Gustavo+Goes;Dev+Front+End." alt="Typing SVG"/></a>
+
 Sou um desenvolvedor apaixonado, com uma motivação constante para aprender, criar e inovar.
 Aqui você encontrará uma coleção dos meus projetos, experimentos e contribuições open-source.
 
